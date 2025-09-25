@@ -36,5 +36,5 @@
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/audio-transcriber-ai-chat.git
+git clone https://github.com/your-AdeyemoOpeyemi/audio-transcriber-ai-chat.git
 cd audio-transcriber-ai-chat
